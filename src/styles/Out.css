@@ -1,0 +1,39 @@
+.room{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.room button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.sign-out{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.sign-out button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+}
